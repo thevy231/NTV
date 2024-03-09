@@ -1,0 +1,40 @@
+<html lang="vi">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Bài tập về Danh sách</title>
+    </head>
+    <body>
+        <h1>Nguyễn<sup>Thế <sup>Vỹ</sup> </h1>
+    <h1>Bài tập về Danh sách</h1>
+    <!-- Bài tập 1: Danh sách không thứ tự --> <h2>Bài tập 1: Danh sách không thứ tự</h2>
+    <p>Hãy liệt kê các môn học bạn yêu thích.</p>
+    <ul>
+        <li>Toán học</li>
+        <li>Lập trình</li>
+        <li>Hóa học</li>
+        <li>Âm nhạc</li>
+    </ul>
+    <!-- Bài tập 2: Danh sách có thứ tự -->
+    <h2>Bài tập 2: Danh sách có thứ tự</h2>
+    p>Hãy liệt kê các bước để làm một chiếc bánh pizza.</p>
+    <ol>
+        <li>Chuẩn bị nguyên liệu: bột mỳ, sốt cà chua, phô mai, thịt và rau củ tùy chọn.</li>
+        <li>Làm bột: trộn bột mỳ với nước và men nở để tạo thành bột pizza.</li> <li>Trải bột: lăn bột thành hình tròn và trải lên khay nướng.</li>
+        <li>Thêm sốt cà chua và các nguyên liệu khác lên bề mặt bánh pizza.</li>
+        <li>Nướng bánh: đặt vào lò nướng đã được làm nóng ở nhiệt độ cao và nướng cho đến khi bánh vàng và
+        phồng.</li>
+        <li>Thưởng thức: cắt bánh thành lát và thưởng thức ngay khi còn nóng.</li>
+    </ol>
+    <!-- Bài tập 3: Danh sách kết hợp -->
+    <h2>Bài tập 3: Danh sách kết hợp</h2>
+    <ul>
+        <li>Chuẩn bị nguyên liệu: hoa quả tươi, sữa hoặc nước cốt dừa, đá xay.</li>
+        <p>Hãy liệt kê các bước để làm một ly sinh tố hoa quả.</p>
+        <li>Rửa sạch hoa quả và cắt nhỏ.</li> <li>Đặt hoa quả vào máy xay sinh tố.</li>
+        <li>Thêm sữa hoặc nước cốt dừa vào máy xay.</li>
+        <li>Thêm đá xay vào và xay đều cho đến khi mịn. </li>
+        <li>Rót sinh tố vào ly và thưởng thức ngay khi còn lạnh. </li>
+    </ul>
+    </body>
+</html>
